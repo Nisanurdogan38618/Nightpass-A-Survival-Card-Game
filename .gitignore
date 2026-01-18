@@ -1,0 +1,21 @@
+# --- Java ve IntelliJ Copleri ---
+.idea/
+*.iml
+out/
+target/
+*.class
+*.log
+*.jar
+*.war
+
+# --- Python ve PyCharm Copleri ---
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.venv/
+
+# --- isletim Sistemi Gereksizleri ---
+.DS_Store
+Thumbs.db
